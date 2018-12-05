@@ -1,4 +1,5 @@
 
+
 var i, healthcare1, greeting, button2, greeting2, button3, greeting3;
 
 let answers = [];
